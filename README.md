@@ -1,5 +1,5 @@
 
-```
+```md
 # B2B Project Management System (WIP) 🚧
 
 A **full-stack** B2B project management system built with **Node.js, MongoDB, Next.js, and React**. This platform is designed as a **multi-tenancy** system, offering powerful team collaboration features similar to **Jira**.
@@ -72,13 +72,3 @@ This project is licensed under the [MIT License](LICENSE).
 🔹 This project is still under active development. Features and functionality may change as I iterate and improve the system. Stay tuned for updates! 🚀
 ```
 
----
-
-### **Why This Works for a WIP Project**
-- **Clearly states it's a work in progress** (WIP 🚧 in title + roadmap)  
-- **Lists planned features** so users understand what's coming  
-- **Includes a roadmap** to track development progress  
-- **Has installation steps** for anyone interested in testing/contributing  
-- **Encourages contributions & feedback**  
-
-Would you like me to tweak it further or add more details? 😊🚀
