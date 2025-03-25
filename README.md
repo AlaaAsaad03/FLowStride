@@ -1,5 +1,4 @@
 
-```md
 # B2B Project Management System (WIP) 🚧
 
 A **full-stack** B2B project management system built with **Node.js, MongoDB, Next.js, and React**. This platform is designed as a **multi-tenancy** system, offering powerful team collaboration features similar to **Jira**.
