@@ -4,6 +4,8 @@ import { config } from "../config/app.config";
 import {
     googleLoginCallback,
     registerUserController,
+    loginController,
+    logOutController
 } from "../controllers/auth.controller";
 
 const failedUrl = `${config.FRONTEND_GOOGLE_CALLBACK_URL}?status=failure`;
@@ -11,6 +13,8 @@ const failedUrl = `${config.FRONTEND_GOOGLE_CALLBACK_URL}?status=failure`;
 const authRoutes = Router();
 
 authRoutes.post("/register", registerUserController);
+
+authRoutes.post("/login", loginController);
 
 
 authRoutes.get(
@@ -27,5 +31,8 @@ authRoutes.get(
     }),
     googleLoginCallback
 );
+
+
+authRoutes.post('/logout', logOutController)
 
 export default authRoutes;
