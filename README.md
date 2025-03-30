@@ -69,5 +69,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### **📢 Note:**
 🔹 This project is still under active development. Features and functionality may change as I iterate and improve the system. Stay tuned for updates! 🚀
-```
-
